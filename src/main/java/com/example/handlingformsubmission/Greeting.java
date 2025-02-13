@@ -6,19 +6,19 @@ public class Greeting {
     private String content;
 
     public long getId() {
-	return id;
+        return id;
     }
 
     public void setId(long id) {
-	this.id = id;
+        this.id = id;
     }
 
     public String getContent() {
-	return content;
+        return content;
     }
 
     public void setContent(String content) {
-	this.content = content;
+        this.content = content;
     }
 
 }
